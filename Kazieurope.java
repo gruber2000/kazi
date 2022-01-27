@@ -14,7 +14,8 @@ public class Kazieurope {
           //    new NewJFrameAdmin().setVisible(true);
               new NewJFrameLogin().setVisible(true);
           
-    
+ 
+             
 });
 }
 }
