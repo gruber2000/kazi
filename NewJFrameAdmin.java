@@ -27,7 +27,7 @@ public class NewJFrameAdmin extends javax.swing.JFrame {
    
         String url="jdbc:mysql://mariadb105.server004689.nazwa.pl/server004689_kazieurope";
         String user="server004689_kazieurope";
-        String pass="Orzel123";
+        String pass=" ";
         
         try {
             con =DriverManager.getConnection(url,user,pass);
